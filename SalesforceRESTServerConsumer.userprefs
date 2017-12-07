@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FC5F0052-8542-4503-9744-FB8486406F44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesforceRESTServerConsumer/Program.cs">
+    <Files>
+      <File FileName="SalesforceRESTServerConsumer/Program.cs" Line="172" Column="1" />
+      <File FileName="SalesforceRESTServerConsumer/SalesforceAuthentication.cs" Line="1" Column="1" />
+      <File FileName="SalesforceRESTServerConsumer/Solicitud.cs" Line="9" Column="29" />
+      <File FileName="SalesforceRESTServerConsumer/ExternalRequest.cs" Line="4" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SalesforceRESTServerConsumer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

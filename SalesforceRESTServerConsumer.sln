@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesforceRESTServerConsumer", "SalesforceRESTServerConsumer\SalesforceRESTServerConsumer.csproj", "{FC5F0052-8542-4503-9744-FB8486406F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5F0052-8542-4503-9744-FB8486406F44}.Debug|x86.ActiveCfg = Debug|x86
+		{FC5F0052-8542-4503-9744-FB8486406F44}.Debug|x86.Build.0 = Debug|x86
+		{FC5F0052-8542-4503-9744-FB8486406F44}.Release|x86.ActiveCfg = Release|x86
+		{FC5F0052-8542-4503-9744-FB8486406F44}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

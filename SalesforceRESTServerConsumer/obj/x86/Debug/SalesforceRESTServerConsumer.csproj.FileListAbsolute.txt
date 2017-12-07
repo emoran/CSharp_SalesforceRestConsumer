@@ -1,0 +1,5 @@
+/Users/emoran/Projects/SalesforceRESTServerConsumer/SalesforceRESTServerConsumer/bin/Debug/SalesforceRESTServerConsumer.exe
+/Users/emoran/Projects/SalesforceRESTServerConsumer/SalesforceRESTServerConsumer/bin/Debug/SalesforceRESTServerConsumer.pdb
+/Users/emoran/Projects/SalesforceRESTServerConsumer/SalesforceRESTServerConsumer/obj/x86/Debug/SalesforceRESTServerConsumer.csproj.CoreCompileInputs.cache
+/Users/emoran/Projects/SalesforceRESTServerConsumer/SalesforceRESTServerConsumer/obj/x86/Debug/SalesforceRESTServerConsumer.exe
+/Users/emoran/Projects/SalesforceRESTServerConsumer/SalesforceRESTServerConsumer/obj/x86/Debug/SalesforceRESTServerConsumer.pdb
